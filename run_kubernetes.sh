@@ -11,7 +11,7 @@ dockerpath=docsudhachand/api
 r=$(kubectl get pod api 2> /dev/null;echo $?)
 
 if [ "_$r" == "_1" ] ; then
-    kubectl run ml-api \
+    kubectl run api \
     --image=$dockerpath \
     --image-pull-policy="Always" \
     --overrides='{"apiVersion": "v1", "spec":{"imagePullSecrets": [{"name": "regcred"}]}}'
