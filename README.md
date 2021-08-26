@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Yourfriendsudha/DevopsML?style=svg)](https://circleci.com/gh/Yourfriendsudha/DevopsML)
-
+[![Yourfriendsudha](https://circleci.com/gh/Yourfriendsudha/DevopsML.svg?style=svg)](https://circleci.com/gh/Yourfriendsudha/DevopsML)
 
 ## Project Overview
 
