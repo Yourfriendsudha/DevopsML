@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Yourfriendsudha/DevopsML?style=svg)](https://circleci.com/gh/Yourfriendsudha/DevopsML)
+
 
 ## Project Overview
 
